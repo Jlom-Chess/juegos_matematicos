@@ -1,0 +1,6 @@
+Jose,17
+Luis,3
+Javier,4
+Humberto,3
+Javier,2
+Dulio,1
